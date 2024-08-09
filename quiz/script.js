@@ -1,0 +1,1 @@
+alert("Santosh! Your quiz started")
